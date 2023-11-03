@@ -6,7 +6,7 @@ class HelloWorld {
         int c = a*b;
         int d = b-a;
         int e = a+b;
-        int f = b/a
+        int f = b/a;
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
