@@ -18,6 +18,7 @@ class HelloWorld {
 
         System.out.println("Welcome to DevOps programmeing - today's date - 24-Feb-24");
         System.out.println("Approved");
+        System.out.println("A new feature/enhancement introduced to Hello World!");
 
     }
 }
