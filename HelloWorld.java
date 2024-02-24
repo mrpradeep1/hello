@@ -16,7 +16,7 @@ class HelloWorld {
          System.out.println("Hello, World!div");
         System.out.println(f);
 
-        System.out.println("Welcome to DevOps programmeing - today's date - 24-Feb-24");
+        System.out.println("Welcome to DevOps programmeing - today's date - 24-Feb-24"
         System.out.println("Approved");
 
     }
